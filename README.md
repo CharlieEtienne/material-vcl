@@ -17,9 +17,9 @@ I plan to add these variants for this theme:
 
 as defined in [official Material Theme](https://github.com/equinusocio/vsc-material-theme).
 
-You can find colors codes for each themes here:
-
-https://github.com/equinusocio/vsc-material-theme/tree/master/src/themes/settings/specific
+> You can find colors codes for each variant here:
+> 
+> https://github.com/equinusocio/vsc-material-theme/tree/master/src/themes/settings/specific
 
 **Any help is welcome!**
 
